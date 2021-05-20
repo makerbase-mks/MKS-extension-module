@@ -1,1 +1,1 @@
-# MKS-PAD45
+# MKS extension module
